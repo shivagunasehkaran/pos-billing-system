@@ -186,6 +186,14 @@ The system automatically prunes old data:
 - Service Worker support for offline functionality
 - Touch-friendly for tablet devices
 
+## Output
+<img width="2202" height="1236" alt="Screenshot 2025-11-27 at 2 54 58 PM" src="https://github.com/user-attachments/assets/0e0dbd71-c848-419c-ae4e-bf51a317eeb9" />
+<img width="2199" height="1236" alt="Screenshot 2025-11-27 at 2 55 08 PM" src="https://github.com/user-attachments/assets/15631945-dc64-4efa-8f02-8a911c752529" />
+<img width="2197" height="1233" alt="Screenshot 2025-11-27 at 2 55 14 PM" src="https://github.com/user-attachments/assets/b7d0a366-1f97-4437-9af1-4ee0895ab419" />
+<img width="2195" height="1233" alt="Screenshot 2025-11-27 at 2 55 22 PM" src="https://github.com/user-attachments/assets/9cd9b9d9-a8b7-4e60-8273-a4190cc3f464" />
+<img width="2199" height="1227" alt="Screenshot 2025-11-27 at 2 55 31 PM" src="https://github.com/user-attachments/assets/d7e79a2e-6994-490c-956e-bba014e942bd" />
+
+
 ## License
 
 MIT
