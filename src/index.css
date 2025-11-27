@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900;
+    touch-action: pan-y;
+    /* Prevent text size adjustment on iOS */
+    -webkit-text-size-adjust: 100%;
+  }
+
+  /* Ensure touch targets are at least 44x44px on mobile */
+  @media (max-width: 768px) {
+    button, a {
+      min-height: 44px;
+      min-width: 44px;
+    }
+  }
+
+  /* Smooth scrolling */
+  * {
+    -webkit-overflow-scrolling: touch;
+  }
+}
